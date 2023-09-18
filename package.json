@@ -1,9 +1,11 @@
 {
-	"name": "CliPortfolio",
+	"name": "jacobjg",
 	"version": "1.0.0",
 	"license": "MIT",
 	"description": "A CLI formatted portfolio for Jacob Gardner.",
-	"bin": "dist/cli.js",
+	"bin": {
+		"jacobjg": "dist/cli.js"
+	},
 	"type": "module",
 	"engines": {
 		"node": ">=16"

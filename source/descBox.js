@@ -9,7 +9,7 @@ if(today.getMonth() < 5 || (today.getMonth == 5 && today.getDay() < 28)) {
 
 const DescBox = () => {
 	return (
-		<Box borderStyle="double" flexDirection="column" height="45" paddingY="1" paddingX="2">
+		<Box borderStyle="double" flexDirection="column" paddingY="1" paddingX="2">
 			<Text color="#5763d4" bold underline>Overview</Text>
 			<Text>
 				<Text color="cyan" bold>Name: </Text>
