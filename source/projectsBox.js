@@ -24,6 +24,15 @@ const ProjectsBox = () => {
 				<Newline />
 			</Text>
 			<Text>
+				<Text color="cyan" bold>Neural Network: </Text>
+				<Text>I followed some tutorials to create a neural network from scratch in Python. This was a really fun projcet and I enjoyed learning the algorithms and maths behind neural network frameworks!</Text>
+			</Text>
+			<Text>
+				<Text color="cyan" bold>Repo: </Text>
+				<Text>https://github.com/jacobgardner1999/NeuralNetwork</Text>
+				<Newline />
+			</Text>
+			<Text>
 				<Text color="cyan" bold>BroCalc: </Text>
 				<Text>I have been on the BroCalc team working for TPICAP as a developer and technical business analayst since June 2023.</Text>
 			</Text>
